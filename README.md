@@ -22,7 +22,7 @@ This project is about creating an interactive dashboard to explore the Belly But
 
 **2.** Copy Starter Code: Copy the provided files (index.html, samples.json, app.js) to your local project folder.
 
-**3.** Push Changes to Github: As changes and updates are made, use the project repo folder to open the terminal and push changes to the main branch on Github.
+**3.** Deploy to GitHub Pages: Push the repository to GitHub and deploy the app using GitHub Pages for public access.
 
 **Functionality**
 
@@ -42,9 +42,9 @@ This project is about creating an interactive dashboard to explore the Belly But
     
 **How to Use**
 
-**1.** Open the 'index.html' file in Google Chrome browser.
+**1.** Open the 'index.html' file in Google Chrome browser or open the deployed GitHub Pages link.
 
-**2.** Select a sample ID from the dropdown to view corresponding data.
+**2.** Select a sample ID from the drop-down to view corresponding data.
 
 **3.** Explore the charts and demographic information that update based on the selection.
 
